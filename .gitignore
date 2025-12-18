@@ -1,0 +1,11 @@
+# datasets
+data/
+*.npy
+*.npz
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
